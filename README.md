@@ -15,4 +15,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikeshpowar121&show_icons=true&locale=en&layout=compact" alt="rushikeshpowar121" /></p>
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshpowar121&" alt="rushikeshpowar121" /></p>
