@@ -84,8 +84,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
   </a>
 </p>
-[![An image of @rushikeshpowar121's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rushikeshpowar121)](https://holopin.io/@rushikeshpowar121)
-
+[![An image of @rushikeshpowar121's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/api/user/board?user=rushikeshpowar121)](https://holopin.io/@rushikeshpowar121)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikeshpowar121&show_icons=true&locale=en&layout=compact" alt="rushikeshpowar121" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshpowar121&" alt="rushikeshpowar121" /></p>
