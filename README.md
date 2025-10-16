@@ -85,7 +85,8 @@
   </a>
 </p>
 
-[![An image of @rushikesh-powar's Holopin badges...](https://holopin.io/api/user/board?user=rushikeshpowar121)](https://holopin.io/@rushikeshpowar121)
+
+[![An image of @rushikesh-powar's Holopin badges...](https://holopin.me/rushikeshpowar121)](https://holopin.io/@rushikeshpowar121)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikeshpowar121&show_icons=true&locale=en&layout=compact" alt="rushikeshpowar121" /></p>
 
